@@ -1,1 +1,2 @@
 print("KING")
+print(" lion")
